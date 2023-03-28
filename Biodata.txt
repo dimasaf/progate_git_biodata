@@ -1,4 +1,4 @@
 nama        passion
 -dimas      -front-end
 -domba      -masih mencari
--irham      -sedang muncak
+-irham      -web Developeer
