@@ -2,3 +2,5 @@ nama        passion
 -dimas      -front-end
 -domba      -masih mencari
 -jafar      -olahraga
+-kambing    -back-end
+-anris      -sedang berpetualang
