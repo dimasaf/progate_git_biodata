@@ -1,4 +1,5 @@
 nama        passion
 -dimas      -front-end
 -domba      -masih mencari
+-kambing    -back-end
 -anris      -sedang berpetualang
