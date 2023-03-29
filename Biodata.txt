@@ -9,3 +9,4 @@ nama        passion
 -gde_eka    -nonton film
 -irham      -web Developeer
 -sinaga     -tidur
+-aty        -front-end
