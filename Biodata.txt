@@ -5,3 +5,4 @@ nama        passion
 -kambing    -back-end
 -anris      -sedang berpetualang
 -dita l     -lari dari kenyataan
+-rutri      -programming
