@@ -10,3 +10,4 @@ nama        passion
 -irham      -web Developeer
 -sinaga     -tidur
 -aty        -front-end
+-rutri      -programming
