@@ -11,3 +11,4 @@ nama        passion
 -sinaga     -tidur
 -aty        -front-end
 -rutri      -programming
+-zaki       -jalan-jalan
