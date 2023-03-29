@@ -8,3 +8,4 @@ nama        passion
 -darmawan   -apa yaa?
 -gde_eka    -nonton film
 -irham      -web Developeer
+-sinaga     -tidur
