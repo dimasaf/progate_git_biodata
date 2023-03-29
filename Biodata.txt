@@ -4,4 +4,9 @@ nama        passion
 -jafar      -olahraga
 -kambing    -back-end
 -anris      -sedang berpetualang
+<<<<<<< HEAD
 -sinaga     -tidur
+=======
+-dita l     -lari dari kenyataan
+-darmawan   -apa yaa?
+>>>>>>> 023fa2836ee09cfefa2f6bd30a70675e67d55815
