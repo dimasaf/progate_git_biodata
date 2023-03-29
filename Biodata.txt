@@ -4,3 +4,4 @@ nama        passion
 -jafar      -olahraga
 -kambing    -back-end
 -anris      -sedang berpetualang
+-dita l     -lari dari kenyataan
