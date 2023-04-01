@@ -1,0 +1,14 @@
+nama        passion
+-dimas      -front-end
+-domba      -masih mencari
+-jafar      -olahraga
+-kambing    -back-end
+-anris      -sedang berpetualang
+-dita l     -lari dari kenyataan
+-darmawan   -apa yaa?
+-gde_eka    -nonton film
+-irham      -web Developeer
+-sinaga     -tidur
+-aty        -front-end
+-rutri      -programming
+-zaki       -jalan-jalan
